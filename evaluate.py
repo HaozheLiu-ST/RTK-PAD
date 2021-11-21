@@ -133,7 +133,7 @@ if __name__ == '__main__':
     }
 
     parser = argparse.ArgumentParser(description='manual to this script')
-    parser.add_argument("--test_sensor", type=str, default='O')
+    parser.add_argument("--test_sensor", type=str, default='D')
     parser.add_argument("--global_model_path", type=str, default=None)
     parser.add_argument("--patch_model_path", type=str, default=None)
     parser.add_argument("--patch_num", type=int, default=2)  # patch_num
