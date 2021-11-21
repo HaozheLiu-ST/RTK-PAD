@@ -1,7 +1,7 @@
 # RTK-PAD
 This is an official pytorch implementation of 'Fingerprint Presentation Attack Detector Using Global-Local Model', which is accepted by *IEEE Transactions on Cybernetics*
 
-## Fingerprint Presentation Attack Detector Using Global-Local Model (IEEE TCYB)
+### Fingerprint Presentation Attack Detector Using Global-Local Model (IEEE TCYB)
 
 ![](./src/method.png)
 
