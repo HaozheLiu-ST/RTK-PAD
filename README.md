@@ -50,7 +50,7 @@ The RTK-PAD method is trained through three steps:
   python train_local_shuffling.py \
   --sensor [D/G] \
   ```
-  `D` refers to `DigitalPersona` and `G` is `GreenBit`. Since `Orcanthus` is with the different sizes of the image, we have a specific implementation for such case, which is hard to merge into this code.
+  `D` refers to `DigitalPersona` and `G` is `GreenBit`. Since `Orcanthus` is with the different sizes of the images, we have a specific implementation for such case, which is hard to merge into this code.
 
 * Training models
   ```
